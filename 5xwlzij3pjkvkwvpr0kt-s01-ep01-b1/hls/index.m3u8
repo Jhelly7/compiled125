@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MAP:URI="https://cdn.jsdelivr.net/gh/Jhelly7/compiled125@job-5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/hls/init.bin"
+#EXTINF:4.000000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled125@job-5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/hls/seg00000.bin
+#EXTINF:4.000000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled125@job-5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/hls/seg00001.bin
+#EXTINF:4.000000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled125@job-5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/hls/seg00002.bin
+#EXTINF:3.500000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled125@job-5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/5xwlzij3pjkvkwvpr0kt-s01-ep01-b1/hls/seg00003.bin
+#EXT-X-ENDLIST
